@@ -20,7 +20,7 @@ const dummyFileSystem = {
   '9b6739960c1ac83251046da2c718019b': {
     type: '__folder__',
     name: 'apps',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 223,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -31,7 +31,7 @@ const dummyFileSystem = {
   '147d0ef33fe657ce53a83de6a630473d': {
     type: '__folder__',
     name: 'pictures',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 23,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -42,7 +42,7 @@ const dummyFileSystem = {
   a55cfa9e1bf87138edd25c4b1553104d: {
     type: '__folder__',
     name: 'videos',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 0,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -53,7 +53,7 @@ const dummyFileSystem = {
   '5f2b4d35489a8617e574060b19b7cad9': {
     type: '__folder__',
     name: 'docs',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 233,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -68,7 +68,7 @@ const dummyFileSystem = {
   ab7e413a3798155e37a9361140522e39: {
     type: '__file__',
     name: 'a.pdf',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 234,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -78,7 +78,7 @@ const dummyFileSystem = {
   '891debd77d0bc40d30ff7d7e6c628e9f': {
     type: '__file__',
     name: 'b.jpg',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 234,
     date: '2019-04-29',
     parentID: '1382b6993e9f270cb1c29833be3f5750',
@@ -88,7 +88,7 @@ const dummyFileSystem = {
   '2d03459789f153918dfc0be413fe9987': {
     type: '__folder__',
     name: 'work',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 200,
     date: '2019-04-29',
     parentID: '5f2b4d35489a8617e574060b19b7cad9',
@@ -102,7 +102,7 @@ const dummyFileSystem = {
   '8f7c5959dbb088c0aef8b145dbdf6e43': {
     type: '__file__',
     name: 'c.pdf',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 200,
     date: '2019-04-29',
     parentID: '5f2b4d35489a8617e574060b19b7cad9',
@@ -112,7 +112,7 @@ const dummyFileSystem = {
   '579c51eec02e43b4dfad314e05365fe4': {
     type: '__file__',
     name: 'd.docx',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 235,
     date: '2019-04-29',
     parentID: '5f2b4d35489a8617e574060b19b7cad9',
@@ -122,7 +122,7 @@ const dummyFileSystem = {
   b42eff45517edc2e543b3d2750bd08c3: {
     type: '__file__',
     name: 'e.pdf',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 0,
     date: '2019-04-29',
     parentID: '2d03459789f153918dfc0be413fe9987',
@@ -132,7 +132,7 @@ const dummyFileSystem = {
   '00ce12a7746322ce403e17992674f81b': {
     type: '__file__',
     name: 'f.ts',
-    creatorName: 'Shubham Singh',
+    creatorName: 'Bipin Panday',
     size: 235,
     date: '2019-04-29',
     parentID: '2d03459789f153918dfc0be413fe9987',
